@@ -10,17 +10,17 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "glennsaint-86/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme                    : "minimal-mistakes-jekyll"
+#remote_theme             : "glennsaint-86/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "helloglenn.me"
+title                    : "HelloGlenn.Me"
 title_separator          : "-"
-subtitle                 : ""
-name                     : "HelloGlenn.Me"
-description              : "An amazing website."
+subtitle                 : "My tech notes and journal"
+name                     : "GS"
+description              : "gsd"
 url                      : https://glennsaint-86.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "glennsaint-86/glennsaint-86.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "HelloGlenn.Me"
+  name             : "GS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Laidback"
   location         : "Somewhere"
   email            :
   links:
