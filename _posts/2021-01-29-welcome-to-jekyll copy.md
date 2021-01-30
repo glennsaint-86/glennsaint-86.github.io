@@ -3,8 +3,8 @@ layout: single
 title:  "Welcome to Jekyll!"
 date:   2021-01-29 23:59:25 +0800
 categories: blog
-tags:
-permalink:
+#tags:
+#permalink:
 published: true #| false
 
 ---
