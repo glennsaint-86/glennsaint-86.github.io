@@ -22,7 +22,7 @@ Below are the 3 basic requirements:
 1. The first thing to do is create a Microsoft account 
 2. Go to [Microsoft Azure](https://azure.microsoft.com/en-gb/free)
 3. Click on Start Free button
-4. Use the Microsof Account created in step #1
+4. Use the Microsoft Account created in step #1
 5. Enter your Profile details, see sample screenshot below
     ![azure signup profile](/assets/images/azure-signup-01.png)
 6. Click on Next button, for phone and credit card verfication
